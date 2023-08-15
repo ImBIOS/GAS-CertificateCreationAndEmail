@@ -17,6 +17,7 @@ function createCertificates() {
   const sheet = ss.getSheets()[0];
 
   // Load the Slide template ID
+  // @see https://stackoverflow.com/questions/62707165/google-slides-api-how-to-get-the-mastertemplate-id
   const slideTemplateId = 'YOUR_SLIDE_TEMPLATE_ID_HERE';
   const yourName = 'YOUR_NAME';
 
