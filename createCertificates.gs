@@ -3,9 +3,9 @@
  * Loads data from a Google Spreadsheet, fills a Slide template,
  * exports it as a PDF, and emails the certificate to the recipient.
 
- * row[0] = Name
+ * row[0] = Full Name
  * row[1] = Certificate ID
- * row[2] = Recipient Name
+ * row[2] = Recipient Short Name
  * row[3] = Recipient Email
  */
 function createCertificates() {
