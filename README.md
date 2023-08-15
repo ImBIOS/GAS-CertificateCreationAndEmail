@@ -1,9 +1,9 @@
 # Google Apps Script: createCertificates.gs
 
-[![GitHub license](https://img.shields.io/github/license/ImBIOS/GAS-CertificateCreationAndEmail.svg)]()
-[![GitHub issues](https://img.shields.io/github/issues/ImBIOS/GAS-CertificateCreationAndEmail.svg)]()
-[![GitHub stars](https://img.shields.io/github/stars/ImBIOS/GAS-CertificateCreationAndEmail.svg)]()
-[![GitHub forks](https://img.shields.io/github/forks/ImBIOS/GAS-CertificateCreationAndEmail.svg)]()
+![GitHub](https://img.shields.io/github/license/ImBIOS/GAS-CertificateCreationAndEmail)
+![GitHub issues](https://img.shields.io/github/issues/ImBIOS/GAS-CertificateCreationAndEmail.svg)
+![GitHub stars](https://img.shields.io/github/stars/ImBIOS/GAS-CertificateCreationAndEmail.svg)
+![GitHub forks](https://img.shields.io/github/forks/ImBIOS/GAS-CertificateCreationAndEmail.svg)
 
 ## Automated Certificate Generator & Email Sender with Google Apps Script
 
