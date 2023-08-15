@@ -4,6 +4,9 @@
  * @param {string} input - The string that will have its words capitalized.
  * @returns {string} - A new string with the first letter of each word capitalized,
  *                     or an error message if the input is not a string.
+ * @example
+ * // In Google Spreadsheet
+ * =capitalizeEachWord("hello world") // Or any other string or cell reference
  */
 function capitalizeEachWord(input) {
   // Check if the input is of type string
