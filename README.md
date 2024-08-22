@@ -1,5 +1,7 @@
 # Google Apps Script: createCertificates.gs
 
+> Google Slide used in this project for reference: https://docs.google.com/presentation/d/1p_UbJUK2OWdeYtZA5dcaGwPRHlPzo9hQ18RnDCYk364/edit?usp=sharing
+
 ![GitHub](https://img.shields.io/github/license/ImBIOS/GAS-CertificateCreationAndEmail)
 ![GitHub issues](https://img.shields.io/github/issues/ImBIOS/GAS-CertificateCreationAndEmail.svg)
 ![GitHub stars](https://img.shields.io/github/stars/ImBIOS/GAS-CertificateCreationAndEmail.svg)
